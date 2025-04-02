@@ -1,0 +1,14 @@
+Cynosure Truck Crash Site:
+local loc = {x = -2443.472, y = -2549.5186, z = -7}; Game.GetTeleportationFacility():Teleport(Game.GetPlayer(), Vector4.new(loc.x, loc.y, loc.z, 1), EulerAngles.new(0, 0, 0)) PreventionSystem.ShowMessage("Truck Crash Site [PACIFICA]", 10.0)
+
+Cynosure Site B Entrance
+local loc = {x = -2385.8896, y = -2553.2717, z = -71.2}; Game.GetTeleportationFacility():Teleport(Game.GetPlayer(), Vector4.new(loc.x, loc.y, loc.z, 1), EulerAngles.new(0, 0, 0)) PreventionSystem.ShowMessage("Cynosure Site B Entrance [PACIFICA]", 10.0)
+
+Cynosure Site B Entrance After Sealed Door
+local loc = {x = -2197.831, y = -2396.0803, z = -192.69719}; Game.GetTeleportationFacility():Teleport(Game.GetPlayer(), Vector4.new(loc.x, loc.y, loc.z, 1), EulerAngles.new(0, 0, 0)) PreventionSystem.ShowMessage("Cynosure Site B Entrance [PACIFICA]", 10.0)
+
+Cynosure Site B Entrance - Lab 1
+local loc = {-2093.5667, y = -2261.3572, z = -194.29106}; Game.GetTeleportationFacility():Teleport(Game.GetPlayer(), Vector4.new(loc.x, loc.y, loc.z, 1), EulerAngles.new(0, 0, 0)) PreventionSystem.ShowMessage("CYN. Site B Entrance - Lab 1 [PACIFICA]", 10.0)
+
+Cynosure Site B - Main Lab (Both Entrances)
+local loc = {x = -2073.2122, y = -2224.289, z = -193.2722}; Game.GetTeleportationFacility():Teleport(Game.GetPlayer(), Vector4.new(loc.x, loc.y, loc.z, 1), EulerAngles.new(0, 0, 0)) PreventionSystem.ShowMessage("CYNOSURE Site B - Main Lab [PACIFICA]", 10.0)
